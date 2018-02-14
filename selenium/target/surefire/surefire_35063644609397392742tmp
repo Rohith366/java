@@ -1,0 +1,6 @@
+#surefire_3
+#Fri Feb 09 08:46:09 IST 2018
+skiptest=true
+basedir=E\:\\java-testing-example\\selenium
+user.dir=E\:\\java-testing-example\\selenium
+localRepository=C\:\\Users\\TREDDY\\.m2\\repository
