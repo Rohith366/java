@@ -101,8 +101,6 @@ Maven install:
 
 <img width="703" alt="screen shot 2016-07-28 at 8 17 57 am" src="https://cloud.githubusercontent.com/assets/79303/17212230/fff899f4-549b-11e6-954d-8159938721af.png">
 
-If everything has succeeded, you should see a successful build in Eclipse's
-console:
 
 <img width="905" alt="screen shot 2016-07-28 at 8 19 06 am" src="https://cloud.githubusercontent.com/assets/79303/17212238/05d6ac4e-549c-11e6-9e38-5444885f9e3b.png">
 
